@@ -1,4 +1,4 @@
-,list,Platform,status
+array_n,list,Platform,status
 0,"['Kenneth Cole','Lee','Levi's','LifeStride','Liz Claiborne','London Fog']",kaggle,done
 1,"['lululemon','Marmot','Merrell','Michael Kors','Mudd','Naturalizer']",kaggle,done
 2,"['Nautica','New Balance','New Era','Nike','Nine West','North Face']",kaggle,done
@@ -18,7 +18,7 @@
 16,"['Pepsi','Pepsi Zero Sugar','Powerade Zero','Red Bull','Sierra Mist','Sprite']",,
 17,"['Squirt','Sunkist','Aquafina','Arrowhead','Bai','Canned Seattle's Best Coffee']",,
 18,"['Country Time','Crystal Light','Dasani','Deer Park','Dole','Fiji']",,
-19,"['Florida's Natural','Folgers','Gatorade','Goya Coconut Water','Green Mountain','Hubert�s Lemonade']",,
+19,"['Florida's Natural','Folgers','Gatorade','Goya Coconut Water','Green Mountain','Hubert’s Lemonade']",,
 20,"['Ice Mountain','Kirkland Signature Coconut Water','Lipton','Maxwell House','Minute Maid','Motts']",,
 21,"['Nestea','Ozarka','Perrier','Poland Spring','Powerade','Propel']",,
 22,"['Resource','Simply Orange','Snapple','Starbucks DoubleShot Energy+Coffee','Sun Drop','Trop50']",,
@@ -92,7 +92,7 @@
 90,"['Dole Packaged Foods','Dove (chocolate)','Dreyer's','Earth's Best','Fage','Fairlife']",,
 91,"['Fiber One','Frito-Lay','Frosted Flakes','Fruit Gushers','General Mills','Ghirardelli']",,
 92,"['Giovanni Rana','Go-Gurt','Hamburger Helper','Happy Baby','Hershey's','Honey Bunches of Oats']",,
-93,"['Honey Nut Cheerios','Horizon Organic Milk','Häagen-Dazs','Icelandic Provisions','Impossible Foods','Johnsonville Sausage']",,
+93,"['Honey Nut Cheerios','Horizon Organic Milk','HÃ¤agen-Dazs','Icelandic Provisions','Impossible Foods','Johnsonville Sausage']",,
 94,"['Kashi','Kinder Bueno','Kinder Joy','King's Hawaiian','KozyShack','Kraft']",,
 95,"['Kraft Mac & Cheese','Land-O-Lakes (butter)','Land-O-Lakes (cheese)','Liberte','Lindt','Lucky Charms']",,
 96,"['M&M's','Maruchan Instant Lunch','Maruchan Ramen Noodle Soup','McCormick','Mountain High','Mrs. Dash']",,
